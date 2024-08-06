@@ -1,3 +1,9 @@
 :root { --branco-principal:
     #FFFFFF;
     }
+    body {background-color: var(--cor-de-fundo #167Bf7) ;}
+    * {
+
+        margin: 0;
+        padding: 0;
+        }
